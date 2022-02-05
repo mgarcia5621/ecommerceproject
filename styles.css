@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Fjalla One', sans-serif;
+font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+font-family: 'Prompt', sans-serif;
+}
+
+
+.navbar {
+    display: flex;
+    font-size: 20px
+}
+
+
+.navbar-img img {
+    width: 200px;
+    float: left;
+    display: inline-flex;
+}
+
+.nav-links {
+    display: flex;
+    float: right;
+    margin-left: 270px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    color: black;
+}
+
+
+.nav-links a {
+    text-decoration: none;
+}
